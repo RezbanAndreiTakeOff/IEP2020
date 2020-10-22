@@ -9,24 +9,24 @@ operations::operations(int n1,int n2)
 }
 void operations::sum()
 {
-  cout<<a<<"+"<<b<<"="<<a+b<<'\n';
+  cout<<"Sum: "<<a<<"+"<<b<<"="<<a+b<<'\n';
 }
 void operations::difference()
 {
-  cout<<a<<"-"<<b<<"="<<a-b<<'\n';
+  cout<<"Difference: "<<a<<"-"<<b<<"="<<a-b<<'\n';
 }
 void operations::product()
 {
-  cout<<a<<"*"<<b<<"="<<a*b<<'\n';
+  cout<<"Product: "<<a<<"*"<<b<<"="<<a*b<<'\n';
 }
 void operations::division()
 {
   if(b==0)
     cout<<"B can't be 0 for division!\n";
   else
-    cout<<a<<"/"<<b<<"="<<a/b<<'\n';
+    cout<<"Division: "<<a<<"/"<<b<<"="<<(float)a/b<<'\n';
 }
 void operations::power()
 {
-  // cout<<a<<" times "<<b<<"="<<pow(a,b)<<'\n';
+    cout<<"Power: "<<a<<"^"<<b<<"="<<pow(a,b)<<'\n';
 }
