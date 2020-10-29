@@ -2,9 +2,9 @@
 #include <cmath>
 #include "operations.h"
 using namespace std;
-// operations::operations() // created my own version of a default constructor
-// :a(0),b(0) //use the member initialization list
-// {}
+operations::operations() // created my own version of a default constructor
+:a(0),b(0) //use the member initialization list
+{}
 operations::operations(int &n1,int &n2)
 :a(n1),b(n2) //use the member initialization list
 {}
