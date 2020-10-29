@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../library/operations/operations.h
+iostream
+-
+
+/Users/rezbanandrei/Documents/IEP2020/lucrarea4/executable/main.cpp
+iostream
+-
+operations/operations.h
+-
+
