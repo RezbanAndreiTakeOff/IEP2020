@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../library/operations/operations.h
+iostream
+-
+
+/Users/rezbanandrei/Documents/IEP2020/lucrarea6/executable/main.cpp
+iostream
+-
+cstring
+-
+operations/operations.h
+-
+functional
+-
+
