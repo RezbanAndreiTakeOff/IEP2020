@@ -1,8 +1,0 @@
-/Users/rezbanandrei/Documents/IEP2020/lucrarea6/build/CMakeFiles/rebuild_cache.dir
-/Users/rezbanandrei/Documents/IEP2020/lucrarea6/build/CMakeFiles/edit_cache.dir
-/Users/rezbanandrei/Documents/IEP2020/lucrarea6/build/library/CMakeFiles/rebuild_cache.dir
-/Users/rezbanandrei/Documents/IEP2020/lucrarea6/build/library/CMakeFiles/edit_cache.dir
-/Users/rezbanandrei/Documents/IEP2020/lucrarea6/build/library/CMakeFiles/operations.dir
-/Users/rezbanandrei/Documents/IEP2020/lucrarea6/build/executable/CMakeFiles/rebuild_cache.dir
-/Users/rezbanandrei/Documents/IEP2020/lucrarea6/build/executable/CMakeFiles/edit_cache.dir
-/Users/rezbanandrei/Documents/IEP2020/lucrarea6/build/executable/CMakeFiles/main.dir
