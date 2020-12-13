@@ -47,3 +47,12 @@ Things to do in `lucrarea9` directory:
 7. run `dmesg` to see the module's output (Starts with `Start operations from platform device *****!` and ends with `Finish operations!`)
 
 **Devicetree homework isn't properly tested.**
+
+**lucrarea10**
+
+Things to do in `lucrarea10` directory:
+
+ 1. create a **build** folder (`mkdir build`) and access it (`cd build`)
+ 2. run `cmake ..`
+ 3. run `make`
+ 4. run `./pasari` and the methods called in `main` method from `pasari.cpp` are executed
