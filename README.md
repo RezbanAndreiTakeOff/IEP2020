@@ -56,3 +56,12 @@ Things to do in `lucrarea10` directory:
  2. run `cmake ..`
  3. run `make`
  4. run `./pasari` and the methods called in `main` method from `pasari.cpp` are executed
+
+ **lucrarea11**
+
+ Things to do in `lucrarea11` directory:
+
+  1. create a **build** folder (`mkdir build`) and access it (`cd build`)
+  2. run `cmake ..`
+  3. run `make`
+  4. run `./figuri` and the methods called in `main` method from `figuri.cpp` are executed
